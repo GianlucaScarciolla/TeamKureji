@@ -1,5 +1,5 @@
 # TeamKureji
-Missing PS are replaced by madness.
+Missing HP are replaced by madness.
 A static website about the Team Kureji.
 
 
