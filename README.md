@@ -1,6 +1,6 @@
 # TeamKureji
 Missing HP are replaced by madness.
-A static website about the Team Kureji.
+A static website about Team Kureji.
 
 
 ## Technologies used
