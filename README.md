@@ -7,6 +7,8 @@ A static website about the Team Kureji.
 
 - Bootstrap
 - Normalize CSS
+- Popper.js
+- jQuery
 
 ## Authors
 
