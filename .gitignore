@@ -3,6 +3,14 @@
 .AppleDouble
 .LSOverride
 
+
+
+# Folder
+*.doc
+
+
+
+
 # Icon must end with two \r
 Icon
 
