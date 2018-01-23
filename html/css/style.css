@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Grayscale v4.0.0-beta (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- */
+
 body {
   font-family: 'Noto Sans', sans-serif;
   position: relative;
@@ -75,6 +71,7 @@ a {
     font-size: 14px;
     padding: 11px;
     color: white;
+    min-width: 100%;
     border: 1px solid white; }
   #mainNav .navbar-brand {
     font-weight: 700; }
@@ -236,6 +233,15 @@ img::selection {
 
 img::-moz-selection {
   background: transparent; }
+
+
+  @media only screen and (max-width : 992px) {
+.logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+      }
 
 body {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }
